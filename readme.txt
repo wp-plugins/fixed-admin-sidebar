@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Fixed Admin Sidebar ===
 Contributors: matthodder
 Tags: admin, sidebar, fixed
 Requires at least: 3.1
