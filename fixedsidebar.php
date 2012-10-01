@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: Fixed Admin Sidebar
-Plugin URI: http://www.matthodder.com/fixed-admin-sidebar
+Plugin URI: http://wordpress.org/extend/plugins/fixed-admin-sidebar/
 Description: Fixes the positioning of the admin sidebar to the side of the browser, even when scrolled down. Best used with collapsed view.
 Author: Matt Hodder
 Version: 1.2
