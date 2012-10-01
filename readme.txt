@@ -1,9 +1,9 @@
-=== Fixed Admin Sidebar ===
+=== Plugin Name ===
 Contributors: matthodder
-Tags: admin, sidebar, fixed
-Requires at least: 3.2
-Tested up to: 3.2
-Stable tag: 1.1
+Tags: admin, sidebar, fixed, fixed sidebar
+Requires at least: 3.1
+Tested up to: 3.4.2
+Stable tag: 1.2
 
 Fixes the positioning of the admin sidebar to the side of the browser, even when scrolled down. Best used with collapsed view.
 
@@ -26,9 +26,13 @@ Fixes the positioning of the admin sidebar to the side of the browser, even when
 
 == Changelog ==
 
+= 1.2 =
+
+* Fixed new overlay issues
+
 = 1.1 =
 
-Working with WP 3.2
+* Fixed overlay issues
 
 = 1.0 =
 
